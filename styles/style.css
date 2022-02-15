@@ -7,10 +7,18 @@ body{
 .nav-bg{
     background-color: #562EFF;
 }
-
+.text-color{
+    color:#562EFF;
+}
 .navbar img{
     width: 40px;
 }
 .logo-text{
     margin-left: 10px;
+}
+.content-one img{
+    width: 45px;
+}
+.divider{
+    border: 1px solid #c0bdbd;
 }
