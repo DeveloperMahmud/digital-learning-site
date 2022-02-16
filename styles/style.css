@@ -25,3 +25,16 @@ body{
 .divider{
     border: 1px solid #c0bdbd;
 }
+.course-card-text{
+    color:#ED6B4F;
+    font-size: 15px;
+}
+.card-radius{
+    border-radius: 16px;
+}
+.card-footer img{
+    width: 20px;
+}
+.card-footer p{
+    margin: 0;
+}
