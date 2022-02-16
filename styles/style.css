@@ -19,6 +19,9 @@ body{
 .content-one img{
     width: 45px;
 }
+.content-two img{
+    width: 200px;
+}
 .divider{
     border: 1px solid #c0bdbd;
 }
